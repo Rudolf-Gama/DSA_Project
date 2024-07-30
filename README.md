@@ -34,3 +34,11 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/yourusername/DSA_CourseProject.git
    cd DSA_CourseProject
+
+## Compile and Run the Code
+
+Use the following command to compile and run the project with a C compiler:
+
+```bash
+gcc -o metro_project main.c functions.c
+./metro_project
