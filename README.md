@@ -1,44 +1,36 @@
-# Hyderabad Metro Stations - DSA Project
+# 🚇 Hyderabad Metro Stations - DSA Project
 
-## Project Overview
+## 🌟 Project Overview
 
-This Data Structures and Algorithms (DSA) project focuses on the Hyderabad Metro system. It utilizes various algorithms to manage and analyze routes between metro stations, including finding shortest paths, calculating travel costs, and listing all stations. The project demonstrates the application of graph theory, particularly Dijkstra's algorithm, to address real-world transit system challenges.
+Welcome to the **Hyderabad Metro Stations - DSA Project**! This project dives into the complexities of the Hyderabad Metro system through Data Structures and Algorithms (DSA). By leveraging advanced algorithms and graph theory, including Dijkstra's algorithm, this project manages and analyzes routes, calculates travel costs, and provides valuable insights into the metro network.
 
-## Features
+## ✨ Features
 
-- **Metro Stations List**: Display a comprehensive list of all metro stations in Hyderabad.
-- **Single Source to Single Destination**: Determine the shortest path and distance between a specific source station and a destination station.
-- **Single Source to Multiple Destinations**: Compute the shortest paths from a single source to multiple destination stations.
-- **Number of Stations Between Source and Destination**: Calculate the number of stations between a given source and destination.
-- **Number of Stations Between Source and All Stations**: Compute the number of stations between a given source and all other stations.
-- **Cost Calculation**: Estimate the travel cost based on the distance between stations.
+- 🗺️ **Metro Stations List**: View a comprehensive list of all metro stations in Hyderabad at your fingertips.
+- 🚉 **Single Source to Single Destination**: Find the shortest path and distance between any two metro stations.
+- 🌐 **Single Source to Multiple Destinations**: Compute the shortest paths from a single source to multiple destination stations efficiently.
+- 📏 **Stations Count Between Source and Destination**: Determine the number of stations between a specified source and destination.
+- 🔍 **Stations Count Between Source and All Stations**: Calculate the number of stations between a source and all other stations in the network.
+- 💰 **Cost Calculation**: Estimate travel costs based on distances between stations for better planning.
 
-## Files
+## 📁 Files
 
-- **`main.c`**: Contains the main function and the interactive menu for user interactions.
-- **`functions.c`**: Implements various functions for calculating routes, distances, and costs.
-- **`functions.h`**: Header file containing function prototypes and constants used in `functions.c`.
+- **`main.c`**: Contains the main function and interactive menu for user interactions.
+- **`functions.c`**: Implements core functions for calculating routes, distances, and costs.
+- **`functions.h`**: Header file with function prototypes and constants used in `functions.c`.
 
-## Getting Started
+## 🚀 Getting Started
 
-### Prerequisites
+### 🔧 Prerequisites
 
-Ensure you have the following installed:
+Make sure you have the following installed:
 - A C compiler (e.g., GCC)
-- Make (optional, if using a Makefile)
+- Make (optional, if you prefer using a Makefile)
 
-### Installation
+### 🛠️ Installation
 
 1. **Clone the Repository**
 
    ```bash
    git clone https://github.com/yourusername/DSA_CourseProject.git
    cd DSA_CourseProject
-
-## Compile and Run the Code
-
-Use the following command to compile and run the project with a C compiler:
-
-```bash
-gcc -o metro_project main.c functions.c
-./metro_project
