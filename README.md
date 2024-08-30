@@ -32,5 +32,5 @@ Make sure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/DSA_CourseProject.git
+   git clone https://github.com/Rudolf-Gama/DSA_CourseProject.git
    cd DSA_CourseProject
